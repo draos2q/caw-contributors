@@ -1,0 +1,92 @@
+[
+  {
+    "id": "persian-c",
+    "name": "Persian community",
+    "avatar": "assets/flags/iran.png",
+    "profile": ""
+  },
+  {
+    "id": "spanish-c",
+    "name": "Spanish community",
+    "avatar": "assets/flags/spain.png",
+    "profile": ""
+  },
+  {
+    "id": "turkish-c",
+    "name": "Turkish community",
+    "avatar": "assets/flags/turkey.png",
+    "profile": ""
+  },
+  {
+    "id": "vietnamese-c",
+    "name": "Vietnamese community",
+    "avatar": "assets/flags/vietnam.png",
+    "profile": ""
+  },
+  {
+    "id": "japanese-c",
+    "name": "Japanese Community",
+    "avatar": "assets/flags/japan.png",
+    "profile": ""
+  },
+  {
+    "id": "chinese-c",
+    "name": "Chinese Community",
+    "avatar": "assets/flags/china.png",
+    "profile": ""
+  },
+  {
+    "id": "german-c",
+    "name": "German Community",
+    "avatar": "",
+    "profile": ""
+  },
+  {
+    "id": "french-c",
+    "name": "French Community",
+    "avatar": "assets/flags/france.png",
+    "profile": ""
+  },
+  {
+    "id": "polish-c",
+    "name": "Polish Community",
+    "avatar": "assets/flags/poland.png",
+    "profile": ""
+  },
+  {
+    "id": "121203012",
+    "name": "ezer",
+    "avatar": "https://avatars.githubusercontent.com/u/121203012?v=4",
+    "profile": "https://github.com/ezer-forint"
+  },
+  {
+    "id": "112316355",
+    "name": "finneganMcdoogle",
+    "avatar": "https://avatars.githubusercontent.com/u/112316355?v=4",
+    "profile": "https://github.com/finneganMcdoogle"
+  },
+  {
+    "id": "122615367",
+    "name": "Testovir0n",
+    "avatar": "https://avatars.githubusercontent.com/u/122615367?v=4",
+    "profile": "https://github.com/Testovir0n"
+  },
+  {
+    "id": "122703902",
+    "name": "zloty",
+    "avatar": "https://avatars.githubusercontent.com/u/122703902?v=4",
+    "profile": "https://github.com/zloty-fi"
+  },
+  {
+    "id": "115931340",
+    "name": "melikbayram",
+    "avatar": "https://avatars.githubusercontent.com/u/115931340?v=4",
+    "profile": "https://github.com/melikbayram"
+  },
+  {
+    "id": "96838319",
+    "name": "TheMaker",
+    "avatar": "https://avatars.githubusercontent.com/u/96838319?v=4",
+    "profile": "https://github.com/MasterSprouts"
+  }
+]
